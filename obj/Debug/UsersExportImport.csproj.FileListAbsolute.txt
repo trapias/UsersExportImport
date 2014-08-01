@@ -14,3 +14,4 @@ C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\DotNe
 C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\dotnetnuke.log4net.dll
 C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\obj\Debug\forDNN.Modules.UsersExportImport.dll
 C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\obj\Debug\forDNN.Modules.UsersExportImport.pdb
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\obj\Debug\UsersExportImport.csprojResolveAssemblyReference.cache

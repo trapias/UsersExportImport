@@ -399,7 +399,7 @@ namespace forDNN.Modules.UsersExportImport
 			}
 
 			StringBuilder sb = new StringBuilder();
-            foreach (string Role in Roles.Split(new char[] { separatorChar }))
+            foreach (string Role in Roles.Split(new char[] { ',' }))
 			{
 				if (Role.Trim() == "")
 				{
