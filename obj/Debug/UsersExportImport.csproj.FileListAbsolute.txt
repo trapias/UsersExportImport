@@ -1,0 +1,16 @@
+D:\Work\Projects\DNNstudio\UsersExportImport\bin\forDNN.Modules.UsersExportImport.dll
+D:\Work\Projects\DNNstudio\UsersExportImport\bin\forDNN.Modules.UsersExportImport.pdb
+D:\Work\Projects\DNNstudio\UsersExportImport\obj\Debug\forDNN.Modules.UsersExportImport.dll
+D:\Work\Projects\DNNstudio\UsersExportImport\obj\Debug\forDNN.Modules.UsersExportImport.pdb
+D:\Work\Projects\DNNstudio\UsersExportImport\obj\Debug\UsersExportImport.csprojResolveAssemblyReference.cache
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\forDNN.Modules.UsersExportImport.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\forDNN.Modules.UsersExportImport.pdb
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\DotNetNuke.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\DotNetNuke.Instrumentation.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\DotNetNuke.WebControls.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\DotNetNuke.WebUtility.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\DotNetNuke.Web.Client.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\bin\dotnetnuke.log4net.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\obj\Debug\forDNN.Modules.UsersExportImport.dll
+C:\Users\AVelo\Google Drive\Lavori Aperti\Imcavi\Dnn\UsersExportImport\obj\Debug\forDNN.Modules.UsersExportImport.pdb
